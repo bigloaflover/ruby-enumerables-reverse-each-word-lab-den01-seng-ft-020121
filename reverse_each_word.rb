@@ -1,5 +1,4 @@
-def reverse_each_word(string)
-  string.split.collect do |word|
-    word.reverse.join("")
+def reverse_each_word(stentence)
+  
   
 end 
